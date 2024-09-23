@@ -1,0 +1,40 @@
+Importants/Things I Learned from Today's Lecture
+
+
+1. What Is Complexity?
+
+We can Do any task by coding with higher or lower complexity depending how good our code is.
+So' algorithm is a set of instruction that lead to optimal solution, better the code better the complexity.
+
+
+2. Time and Space Complexity.
+
+2. 1: Time Complexity
+Time Complexity tells running time of an Algorithm/how the running time will change as task changes.
+As task increates or size of task increases the time will increase.
+
+
+2. 2: Space Complexity
+Space complexity means how much space/computer memory is required by our algorithm.
+
+ 
+
+
+
+
+3: Types of Time Complexity
+3.1 Constant Time Complexity
+    - When Contant Time Complexity the running time of Algorithm will be always me same regardless of input size.
+	Ex: Let say <case 1: Array of 100 > and <case 2: 1000 array> and we want to get element at index 20, in both cases the Algorithm will take same amoutn of time to get the element of 20th index.
+
+3.2 Linear Time Complexity
+Video: 53:50
+
+
+
+
+
+
+- 
+
+
