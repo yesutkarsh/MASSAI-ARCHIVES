@@ -23,14 +23,42 @@ Space complexity means how much space/computer memory is required by our algorit
 
 
 3: Types of Time Complexity
-3.1 Constant Time Complexity
+3.1 Constant Time Complexity O(1)
     - When Contant Time Complexity the running time of Algorithm will be always me same regardless of input size.
 	Ex: Let say <case 1: Array of 100 > and <case 2: 1000 array> and we want to get element at index 20, in both cases the Algorithm will take same amoutn of time to get the element of 20th index.
 
-3.2 Linear Time Complexity
-Video: 53:50
 
 
+3.2 Linear Time Complexity O(n)
+     - When Linear Time Complexity, the running time of Algorithm will increase ast constant rate as the input increases or the amount of work that algorithm has to do is directly proportional to size of input.
+      like:  If we need to find specific "phone number" by seeing "number" form contacts, the time depends on no of contacts.
+
+
+Ex: We are given array of numbers of length 100 and length 1000 and we need to find if array includes 40 or not.
+now, both will take different times as first array is smaller than second, so iteration will be different.
+
+3.3 Logrethmic Time Complexity (O(log n))
+    - When Logrethmic Complexity, the problem statement become half at every step.
+
+
+3.4 Qudratic Time Complexity O(n^2)
+-An algorithm has quadratic time complexity when the time it takes to execute is proportional to the square of the input size.
+
+example let say we have array of 30 element and each element is compared to one another, so means each element will be compared to 30 element that is 30*30 or 30^2, hence O(n^2 )
+
+3.5 Cubic Time Complexity
+
+
+
+4. Space Complexity
+4.1 Constant Space Complexity O(1)
+    - When Constant Space Complexity the amount of space requires will be same/constant regardless of input size.
+Ex: we a summing up 2 number 
+
+4.2 Linear Space Complexity
+   - When linear space complexity the amount of space propotional to input size.
+
+4.3 Space complexity in recursive  O(n)
 
 
 
