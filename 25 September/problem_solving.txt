@@ -1,0 +1,31 @@
+Steps to solver problem:
+1: Understanding
+   - What is Given
+   - What is Asked
+   - Constraints
+
+2: Planning
+   - How and What algorithm to use or technique to use.
+
+3: Execution
+  - Implementing the algorithm
+
+
+No If we are given any problem, below are steps to solve:
+
+1. Think Pseudocode
+Pseudocode means basic skeleton/logic that states how we can code the particular problem.
+
+2. Execeute 
+Cover pseudocode to code
+
+ 
+
+Concept of Dry Run
+- Manual walking through pseudocode
+
+
+
+
+
+   
