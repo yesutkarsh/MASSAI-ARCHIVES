@@ -1,0 +1,126 @@
+﻿Q1: Create a Project Plan for a Personal Website
+Initiation Phase
+Purpose: To Introduce myself.
+Scope:  Include About, Contact, Projects, Skills, Experience, Certificate, Achievement
+Planning:
+Design Navbar
+Homepage
+* Hero
+* Short Introduction
+* Contact Info
+* Footer
+About Page
+* Introduction
+* Experience
+* Resume Download Button
+Project Page
+* Search Bar
+* Filter Button
+* All Projects
+Project Timeline
+https://docs.google.com/spreadsheets/d/1ln0gvJgiIHmmsaiJwm5g0g5qcCbkIC89uyMt4FqgiOo/edit?usp=sharing
+
+
+Q:2: Design a Project Plan for a Simple Blog Website
+Features
+Home Page
+Trending Blogs
+Todays Blogs
+Blog Post
+* Like
+* Share
+* Comment
+Create Blog Post
+Trello Link
+https://trello.com/invite/b/67010ec5724c3ca30c508234/ATTI528857909004fbe7d9c711556dd2fc7e683DBEE5/blogwebsite
+
+
+
+
+Q:3:  Break Down a Project for a Small E-commerce Website
+Scope:
+Features
+Home Page
+Cart
+Wish List
+Authentication
+Checkout
+Track Order
+
+
+Features Break Down
+Home page with 
+* Top Products
+* Trending Products
+* Offer banner
+Cart 
+* Multiple Product
+* Coupon Code 
+* Checkout BUTTON
+Wish List
+* Move To Cart Button
+
+
+Checkout
+* Payment Integration
+ 
+Trello Link
+https://trello.com/invite/b/6701137c4648a417cea871c1/ATTI2119749668a5214a1ce2e54dc3f379ff9FD9A898/ecommerce
+
+
+
+
+
+
+Q:4 : Use Trello for Task Organization Create a Trello board for a simple project, such as making a family recipe book.
+
+
+Trello Link
+https://trello.com/invite/b/67018014e412b4d156eb6a91/ATTI633cf364fda4a050118412b22884d6275CE2876C/family-recipe-book
+
+
+Q:5 : Identify Stakeholders and Resources for a Project
+Stakeholders:
+Owner of Library
+Readers
+Resources:
+Google Cloud Platform for Hosting
+Cloudinary for Image Hosting
+And local server to fetch books
+6: Identify Scope Creep in a Project
+Scope
+Homepage
+All Bakery Products
+Contact Information
+Map to visit site.
+
+
+No originally we decided to only build website, not ecommerce so adding to cart is outside of scope.
+
+
+New Scope
+Homepage
+All Bakery Items
+Cart
+Checkout
+Contact Information
+Map to visit site.
+
+
+Adding cart will increase overall development time of website as now we need to handle payments, tracking and  authentication.
+
+
+7: Create a Milestone-Based Timeline for a Small Project
+Trello Link
+https://trello.com/invite/b/6702d52e1848eff6b26e2237/ATTI6738bf4543f2f30c16d1a1f7b90c3c538B552ABD/presentation
+
+
+Google Sheet Link
+https://docs.google.com/spreadsheets/d/1AJuYw0uolxhmsKPA52yGwj_uXHIskiwKleq4Hiyv1rE/edit?usp=sharing
+
+
+
+
+8: Implement a Trello Board for Your Personal Project
+Trello Link
+https://trello.com/invite/b/6702d629e4772a14de624641/ATTI0fb67a6fd8490c613340f0afff5836cc5AF2CF61/personal-project
